@@ -3,11 +3,11 @@
   side: left
 
 - title: "School"
-  url: "/design/"
+  url: "/about/"
   side: left
   dropdown:
   - title: "Waldorf Education"
-    url: "/design/grid/"
+    url: "/about/anthroposophy/waldorf/"
   - title: "Biography"
     url: "/design/typography/typography/"
   - title: "Team"
@@ -20,13 +20,13 @@
     url: "/design/page-fullwidth/"
 
 - title: "Curriculum"
-  url: "/headers/"
+  url: "/curriculum/"
   side: left
   dropdown:
   - title: "Kindergarden"
-    url: "/design/header-full-width-image/"
+    url: "/curriculum/kindergarden/"
   - title: "First and Second Grades"
-    url: "/design/header-image-pattern/"
+    url: "/curriculum/first-second-grades/"
 
 - title: Resources
   url: "/getting-started/"
