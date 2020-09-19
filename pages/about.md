@@ -1,11 +1,13 @@
 ---
 layout: page
 show_meta: false
-title: "Get to know us!"
+title: "About Us"
 subheadline: "Your Journey Starts Here"
 header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/about/"
+categories:
+    - about
 ---
 <ul>
     {% for post in site.categories.about %}

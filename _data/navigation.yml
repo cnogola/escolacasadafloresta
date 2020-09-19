@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "Waldorf Education"
-    url: "/about/anthroposophy/waldorf/"
+    url: "/about/waldorf/"
   - title: "Biography"
     url: "/design/typography/typography/"
   - title: "Team"
@@ -16,8 +16,6 @@
     url: "/design/post-left-sidebar/"
   - title: "School Meals"
     url: "/design/post-right-sidebar/"
-  - title: "Gallery"
-    url: "/design/page-fullwidth/"
 
 - title: "Curriculum"
   url: "/curriculum/"

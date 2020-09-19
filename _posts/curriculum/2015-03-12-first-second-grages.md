@@ -1,13 +1,11 @@
 ---
 layout: page
-subheadline:  "First and Second Grades"
-title:  "Where the Fun Begins"
+subheadline:  "Where the Fun Begins"
+title:  "First and Second Grades"
 teaser: "Feeling Responsive enables you to get the attention of visitors. If you don't want to use a big header, use an image for the article instead."
 categories:
     - curriculum
 tags:
-    - design
-    - background color
     - curriculum
 header: no
 image:
