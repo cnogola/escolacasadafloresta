@@ -18,6 +18,7 @@ permalink: "/getting-started/"
 1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
 1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
 1. Make it yours and add your own content.
+1. ... you can [get the Plano Contingência COVID-19](/assets/downloads/plano_contingencia_covid19.pdf){:target="_blank"} directly.
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
 

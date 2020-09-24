@@ -1,10 +1,9 @@
 ---
 layout: page
-subheadline:  "Where the Fun Begins"
-title:  "First and Second Grades"
+show_meta: false
+subheadline:  "Curriculum"
+title:  "Primeira e Segunda Classes"
 teaser: "Feeling Responsive enables you to get the attention of visitors. If you don't want to use a big header, use an image for the article instead."
-categories:
-    - curriculum
 tags:
     - curriculum
 header: no
@@ -12,6 +11,7 @@ image:
     title: unsplash_eagle.jpg
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
+permalink: /curriculum/:title/
 ---
 First turn of the header with `header: no`. Then add an image to with the following code. The caption is optional.
 <!--more-->
@@ -25,7 +25,7 @@ image:
 ~~~
 
 
-### All Header-Styles
+### All Curriculum Pages
 {: .t60 }
 
 {% include list-posts tag='curriculum' %}
