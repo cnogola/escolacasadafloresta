@@ -10,7 +10,9 @@ Modular Scale › http://www.modularscale.com//?16,36&px&1.25&web&table
 */
 
 @import "functions"; // Allows the use of rem-calc() or lower-bound() in your settings
-@import url('https://fonts.googleapis.com/css2?family=Lato&family=Titillium+Web:wght@700&display=swap'); //changing fonts - Gonçalo
+
+
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;700&display=swap');
 
 
 /* Fonts
@@ -22,15 +24,16 @@ $rem-base: $base-font-size;
 $base-line-height: 1.5 !default;
 
 
-$font-family-sans-serif: "Lato", sans-serif;
-$font-family-serif: "Titillium Web", serif;
+
+$font-family-sans-serif: 'Titillium Web',"Helvetica Neue",Arial,Tahoma,sans-serif;
+$font-family-serif: "Volkhov", Georgia, Times, serif;
 $font-family-monospace: "Lucida Console", Monaco, monospace;
 
 $body-font-family: $font-family-sans-serif;
 $body-font-weight: normal;
 $body-font-style: normal;
 
-$header-font-family: $font-family-serif;
+$header-font-family: $font-family-sans-serif;
 
 
 
