@@ -10,6 +10,8 @@ Modular Scale › http://www.modularscale.com//?16,36&px&1.25&web&table
 */
 
 @import "functions"; // Allows the use of rem-calc() or lower-bound() in your settings
+
+
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;700&display=swap');
 
 
@@ -20,6 +22,7 @@ $base-font-size: 16px;
 $rem-base: $base-font-size;
 // $base-line-height is 24px while $base-font-size is 16px
 $base-line-height: 1.5 !default;
+
 
 
 $font-family-sans-serif: 'Titillium Web',"Helvetica Neue",Arial,Tahoma,sans-serif;

@@ -1,12 +1,12 @@
 ---
 layout: page-fullwidth
-title:  "The Full-Width Page Template"
-subheadline:  "Multi-Device Layouts"
+title: "Pedagogia Waldorf"
+subheadline: "Sobre"
 teaser: "The full-width page format gives you all the space you need to show your content using the grid."
-categories:
-    - design
 header:
    image_fullwidth: header_unsplash_leaf.jpg
+breadcrumb: true
+permalink: "/sobre/:basename/"
 ---
 *Feeling Responsive* is built on Foundation. And of course, we make use of the wonderful grid system and so can you. Find out more about [constructing  beautiful layouts][1] in the foundation documentation.
 <!--more-->

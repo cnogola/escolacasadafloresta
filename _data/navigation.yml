@@ -1,13 +1,15 @@
-- title: Home
+- title: Entrada
   url: "/"
   side: left
 
-- title: "School"
-  url: "/design/"
+- title: "A Escola"
+  url: "/sobre/"
   side: left
   dropdown:
-  - title: "Waldorf Education"
-    url: "/design/grid/"
+  - title: "A Nossa História"
+    url: "/sobre/a-escola/"
+  - title: "Pedagogia Waldorf"
+    url: "/sobre/waldorf/"
   - title: "Biography"
     url: "/design/typography/typography/"
   - title: "Team"
@@ -16,33 +18,31 @@
     url: "/design/post-left-sidebar/"
   - title: "School Meals"
     url: "/design/post-right-sidebar/"
-  - title: "Gallery"
-    url: "/design/page-fullwidth/"
 
 - title: "Curriculum"
-  url: "/headers/"
+  url: "/curriculum/"
   side: left
   dropdown:
-  - title: "Kindergarden"
-    url: "/design/header-full-width-image/"
-  - title: "First and Second Grades"
-    url: "/design/header-image-pattern/"
+  - title: "Jardim de Infância"
+    url: "/curriculum/jardim-infancia/"
+  - title: "1º e 2º Ciclos"
+    url: "/curriculum/ciclos/"
 
-- title: Resources
-  url: "/getting-started/"
+- title: Recursos
+  url: "/recursos/"
   side: left
 
 - title: Blog
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "Arquivo"
+    url: "/blog/arquivo/"
 
-- title: "Search"
+- title: "Procura"
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
+- title: "Contactos"
+  url: "/contactos/"
   side: right
