@@ -1,22 +1,15 @@
 ---
 layout: page-fullwidth
 subheadline:  "Curriculum"
-title:  "Jardim de Infância"
+title:  "1º e 2º Ciclos"
 meta_teaser: "Feeling Responsive uses Volkhov for headlines, Lato for everything else and if you are in need to show some code, it will be in Lucida Console."
 teaser: "<em>Feeling Responsive</em> uses <a href='https://www.google.com/fonts/specimen/Volkhov'>Volkhov</a> for headlines, <a href='https://www.google.com/fonts/specimen/Lato'>Lato</a> for everything else and if you are in need to show some code, it will be in <a href='http://www.microsoft.com/typography/fonts/family.aspx?FID=18'>Lucida Console</a> or <a href='http://en.wikipedia.org/wiki/Monaco_(typeface)'>Monaco</a>."
-header:
-    image: homepage_typography.jpg
-    background-color: "#262930"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
 image:
-    thumb:  homepage_typography-thumb.jpg
-    homepage: homepage_typography.jpg
-    caption: Image by Antonio
-    caption_url: "http://www.aisleone.net/"
-tags:
-    - curriculum
-permalink: /curriculum/:title/
+   thumb: "unsplash_brooklyn-bridge-thumb.jpg"
+header:
+    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+breadcrumb: true
+permalink: /curriculum/:basename/
 ---
 <!--more-->
 
@@ -310,10 +303,6 @@ If you need footnotes for your posts, articles and entries, the Kramdown-Parser 
 
 ###### &lt;h6&gt;-Heading in Volkhov
 
-## All Curriculum Pages
-{: .t60 }
-
-{% include list-posts tag='curriculum' %}
 
 ## Tables
 

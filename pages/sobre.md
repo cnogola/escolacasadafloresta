@@ -7,8 +7,8 @@ header:
    image_fullwidth: "header_unsplash_5.jpg"
 permalink: "/sobre/"
 ---
+
 <ul>
-    {% for post in site.tags.sobre %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+    <li><a href="/sobre/a-escola/">A Escola</a></li>
+    <li><a href="/sobre/waldorf/">Pedagogia Waldorf</a></li>
 </ul>

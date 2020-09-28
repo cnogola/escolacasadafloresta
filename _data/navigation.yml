@@ -25,8 +25,8 @@
   dropdown:
   - title: "Jardim de Infância"
     url: "/curriculum/jardim-infancia/"
-  - title: "Primeira e Segunda Classes"
-    url: "/curriculum/primeira-segunda-classes/"
+  - title: "1º e 2º Ciclos"
+    url: "/curriculum/ciclos/"
 
 - title: Recursos
   url: "/recursos/"
