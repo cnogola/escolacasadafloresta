@@ -11,4 +11,5 @@ permalink: "/sobre/"
 <ul>
     <li><a href="/sobre/a-escola/">A Escola</a></li>
     <li><a href="/sobre/waldorf/">Pedagogia Waldorf</a></li>
+    <li><a href="/sobre/biografia/">Biografia</a></li>
 </ul>
