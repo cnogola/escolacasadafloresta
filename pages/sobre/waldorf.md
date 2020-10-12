@@ -4,7 +4,7 @@ title: "Pedagogia Waldorf"
 subheadline: "Sobre"
 teaser: ""
 header:
-   image_fullwidth: header_unsplash_leaf.jpg
+   image_fullwidth: header_curriculum.jpg
 breadcrumb: true
 permalink: "/sobre/:basename/"
 ---

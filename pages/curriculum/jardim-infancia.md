@@ -5,9 +5,9 @@ title:  "Jardim de Infância"
 meta_teaser: ""
 teaser: ""
 image:
-   thumb: "unsplash_brooklyn-bridge-thumb.jpg"
+   thumb: "header_ji-thumb.jpg"
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+    image_fullwidth: "header_ji.jpg"
 breadcrumb: true
 permalink: /curriculum/:basename/
 ---

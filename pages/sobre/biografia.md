@@ -4,7 +4,7 @@ title:  "Biografia"
 subheadline:  "Escola Casa da Floresta"
 teaser: ""
 header:
-   image_fullwidth: header_roadmap_3.jpg
+   image_fullwidth: splash_frontpage.jpg
 breadcrumb: true
 permalink: "/sobre/:basename/"
 ---
