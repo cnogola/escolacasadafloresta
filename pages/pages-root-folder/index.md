@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: 90-1300x400.jpg
+  image_fullwidth: splash_frontpage_3.jpg
 widget1:
   title: "Quem Somos?"
   url: '/sobre/a-escola/'
