@@ -6,18 +6,18 @@
   url: "/sobre/"
   side: left
   dropdown:
-  - title: "A Nossa História"
-    url: "/sobre/a-escola/"
   - title: "Pedagogia Waldorf"
     url: "/sobre/waldorf/"
   - title: "Biografia"
     url: "/sobre/biografia/"
-  - title: "Equipa"
-    url: "/equipa/"
-  - title: "Celebrations"
-    url: "/design/post-left-sidebar/"
-  - title: "School Meals"
-    url: "/design/post-right-sidebar/"
+  - title: "Celebrações"
+    url: "/celebracoes/"
+  - title: "Alimentação"
+    url: "/alimentacao/"
+#  - title: "Equipa"
+#    url: "/sobre/equipa/"
+  - title: "Galeria"
+    url: "/sobre/galeria/"
 
 - title: "Curriculum"
   url: "/curriculum/"
@@ -33,7 +33,7 @@
   side: left
 
 - title: Blog
-  url: "/blog/"
+  url: "blog/"
   side: left
   dropdown:
   - title: "Arquivo"
