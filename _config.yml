@@ -17,7 +17,9 @@ slogan: '»Educação é Mostrar o Caminho«'
 description: 'Bem vind@s ao site da Escola Casa da Floresta. Aqui poderá encontrar toda a informação sobre a nossa escola, desde as suas origens ao seu modo de funcionamento.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with &hearts; by <a href="http://cnogola.github.io/">cnogola</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+# credits: '<p>Created with &hearts; by <a href="http://cnogola.github.io/">cnogola</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created with &hearts; by <a href="http://cnogola.github.io/">cnogola</a>.</p>'
+
 
 # Main author of the website
 # See > authors.yml
@@ -26,7 +28,7 @@ author: cnogola
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'http://www.escolacasadafloresta.pt'
-baseurl: '/'
+baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -144,9 +146,9 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             'https://plus.google.com/u/0/118311555303973066167'
-google_site_verification:  'Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ'
-bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
+google_author:             ''
+google_site_verification:  'kGVs0tf1cvxQuDJNwkhlxqOb12wx_AbQ9dEafV8Tg7U'
+bing_webmastertools_id:    ''
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
 
@@ -179,8 +181,8 @@ msapplication_tilecolor:                '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
-og_locale:                          'en_EN'
+og_image:                           ''
+og_locale:                          'pt_PT'
 og_type:                            'website'
 
 
@@ -194,8 +196,8 @@ og_type:                            'website'
 #
 
 socialmedia:
-    twitter: phlow
-    facebook: phlow.media
+    twitter:
+    facebook:
 
 
 #        ____  _
@@ -207,7 +209,8 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+disqus_shortname:
+# feelingresponsive
 
 
 #      _____
