@@ -13,7 +13,7 @@
   - title: "Celebrações"
     url: "/celebracoes/"
   - title: "Alimentação"
-    url: "/alimentacao/"
+    url: "/alimentacao/alimentacao-escola/"
 #  - title: "Equipa"
 #    url: "/sobre/equipa/"
   - title: "Galeria"
@@ -33,7 +33,7 @@
   side: left
 
 - title: Blog
-  url: "blog/"
+  url: "/blog/"
   side: left
   dropdown:
   - title: "Arquivo"

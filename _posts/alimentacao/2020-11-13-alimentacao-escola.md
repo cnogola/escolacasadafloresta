@@ -20,7 +20,7 @@ image:
     title: gallery_fruta.jpg
     thumb: gallery_fruta-thumb.jpg
     homepage: gallery_fruta.jpg
-#    caption: Photo by Corey Blaz
+    caption: Escola Casa da Floresta
 #    caption_url: https://blaz.photography/
 ---
 Seguimos os princípios da alimentação antroposófica para a qual o cereal assume extrema importância.
