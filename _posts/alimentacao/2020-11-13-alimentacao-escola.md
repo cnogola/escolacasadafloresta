@@ -12,6 +12,7 @@ tags:
     - alimentacao
     - post
     - post format
+show_meta: true
 #
 # Styling
 #
