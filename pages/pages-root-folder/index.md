@@ -6,22 +6,22 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: splash_frontpage_3.jpg
+  image_fullwidth: header_unsplash_leaf.jpg #splash_frontpage_3.jpg
 widget1:
   title: "Quem Somos?"
-  url: '/sobre/a-escola/'
-  image: widget-1-302x182.jpg
-  text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+  url: '/sobre/biografia/'
+  image: IMG_6188.JPG
+  text: 'Somos uma escola Waldorf que segue o curriculum e os princípios da pedagogia de Rudolf Steiner e da Antroposofia. Recebemos crianças desde o jardim de infância (a partir dos 3 anos de idade) até à 6ªclasse.'
 widget2:
   title: "O Que Fazemos?"
   url: '/curriculum/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  text: 'Educamos a criança partindo do pressuposto que a nossa principal tarefa é descobrir a intenção e a aptidão individual de cada ser humano que nos chega. Caminhando com a criança e ajudando na transformação dos obstáculos e desafios trabalhamos juntos para um futuro em que cada um possa agir de modo livre e consciente no mundo.'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="/images/start-video-prep-for-life.JPG" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Onde Estamos?"
   url: '/contactos/'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  image: onde_estamos.jpg
+  text: 'Em Lisboa, Monsanto. Inspirados pela maravilhosa floresta que nos envolve e sustenta.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -33,9 +33,10 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: /preinscricao/
+  text: Faça a sua pré-inscrição ›
   style: alert
+
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
@@ -46,7 +47,7 @@ homepage: true
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/B-ZSeepDmPE" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
