@@ -15,10 +15,13 @@
 
 /* Basics
 ------------------------------------------------------------------- */
+$yellow: #EFC94C;
 
 $text-color:       	#111;
 $body-font-color: 	$text-color;
-$body-bg: 			#fdfdfd;
+$body-bg:           #FFF;
+$body-bg-grad-01:   $yellow;
+$body-bg-grad-02: 	$body-bg;
 
 
 

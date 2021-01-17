@@ -32,10 +32,11 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-#callforaction:
-#  url: https://tinyletter.com/
-#  text: Subscreva a nossa newsletter ›
-#  style: alert
+callforaction:
+  url: /preinscricao/
+  text: Faça a sua pré-inscrição ›
+  style: alert
+
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
