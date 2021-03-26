@@ -35,7 +35,7 @@ widget3:
 #
 callforaction:
   url: /preinscricao/
-  text: Faça a sua pré-inscrição ›
+  text: Pré-inscrição ›
   style: alert
 
 permalink: /index.html
@@ -45,10 +45,3 @@ permalink: /index.html
 #
 homepage: true
 ---
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/B-ZSeepDmPE" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
