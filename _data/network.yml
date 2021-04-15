@@ -10,6 +10,11 @@
   class: "services-newsletter"
   title: "Waldorf Education"
 
+- name: "Apis - Escola Waldorf de Sesimbra"
+  url: "https://www.apisescolawaldorfsesimbra.pt/"
+  class: "services-newsletter"
+  title: "Waldorf Education"
+
 # - name: "Images by Unsplash"
 #   url: "http://unsplash.com/"
 #   class: "rss-link"

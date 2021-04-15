@@ -14,3 +14,5 @@ permalink: "/sobre/"
     <li><a href="/sobre/biografia/">Biografia</a></li>
     <li><a href="/sobre/galeria/">Galeria</a></li>
 </ul>
+
+Em 2020, fruto da vontade e empenho de uma das famílias da Floresta, nasce o <a href="https://www.apisescolawaldorfsesimbra.pt/">Polo Apis - Escola Waldorf de Sesimbra</a>.

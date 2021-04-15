@@ -9,5 +9,6 @@ permalink: "/documentacao/"
 #published: false
 sitemap: false
 redirect_to: "/404.html"
+published: false
 ---
 This is just a page to demonstrate the `redirect`-layout, programmend by [Kanishk](http://codingtips.kanishkkunal.in/about/).
