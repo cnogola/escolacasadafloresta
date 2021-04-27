@@ -22,7 +22,7 @@ widget3:
   title: "Onde Estamos?"
   url: '/contactos/'
   image: onde_estamos.jpg
-  text: 'Em Lisboa, Monsanto. Inspirados pela maravilhosa floresta que nos envolve e sustenta.'
+  text: 'Com sede em Lisboa, inspirados pela maravilhosa floresta de Monsanto que nos envolve e sustenta, temos também um polo em Sesimbra.'
 #
 # Use the call for action to show a button on the frontpage
 #
