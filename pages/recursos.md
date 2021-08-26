@@ -8,7 +8,7 @@ header:
    image_fullwidth: "post-img_frontpage.jpg"
 permalink: "/recursos/"
 ---
-* [Regulamento Interno 20/21](/assets/downloads/regulamentointerno2021.pdf){:target="_blank"}
+* [Regulamento Interno 21/22](/assets/downloads/regulamentointerno2122.pdf){:target="_blank"}
 * [Protocolo de Actividades Escola Casa da Floresta e Apis](/assets/downloads/protocolactividades2021.pdf){:target="_blank"}
 * [Plano Contingência COVID-19](/assets/downloads/plano_contingencia_covid19_v3.pdf){:target="_blank"}
 
